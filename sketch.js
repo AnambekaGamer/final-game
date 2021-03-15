@@ -12,13 +12,13 @@ var zombie4,zombie4Img;
 var zombie5,zombie5Img;
 var zombie6,zombie6Img;
 function preload(){
-	room1Img=loadImage("sprites/hallway.jpg");
-  zombie1Img=loadImage("sprites/zombie1.png");
-  zombie2Img=loadImage("sprites/zombie2.png");
-  zombie3Img=loadImage("sprites/zombie3.png");
-  zombie4Img=loadImage("sprites/zombie4.png");
-  zombie5Img=loadImage("sprites/zombie5.png");
-  zombie6Img=loadImage("sprites/zombie6.png");
+	room1Img=loadImage("hallway.jpg");
+  zombie1Img=loadImage("zombie1.png");
+  zombie2Img=loadImage("zombie2.png");
+  zombie3Img=loadImage("zombie3.png");
+  zombie4Img=loadImage("zombie4.png");
+  zombie5Img=loadImage("zombie5.png");
+  zombie6Img=loadImage("zombie6.png");
   }
 
 function setup() {
