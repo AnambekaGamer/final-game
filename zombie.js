@@ -6,7 +6,7 @@ class Zombie {
       }
           this.width=width;
           this.height=height;
-          this.image=loadImage("sprites/zombie1.png");
+          this.image=loadImage("zombie1.png");
           this.body=Bodies.rectangle(x,y,width,height,options);
           World.add(world, this.body);
 
